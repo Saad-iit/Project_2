@@ -1,0 +1,42 @@
+.table {
+  display: table;   
+  margin: 0 auto;
+  }
+nav#links #onpage {
+  background-color: rgb(255, 0, 0);
+  border-radius: 15px;
+  color: #ffffff;
+  }
+nav#links ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden
+  }
+ nav#links ul li {
+  float: left;
+  margin: 19px;
+  width: 25%;
+  }
+
+nav#links ul li a {  
+  display: block;
+  font-weight:bold;
+  text-align: center;
+  border-radius: 6px;
+  font-size: 15px;
+  width: 100px;
+  padding: 14px;
+  background-color: rgb(27, 204, 198);
+  color: #ffffff;
+  }
+
+nav#links ul li a:hover {  
+  background-color: rgb(230, 135, 135);
+  border-radius: 15px;
+  text-transform: uppercase;
+  }
+body {
+	background-color: gray;
+	text-align: center;
+}

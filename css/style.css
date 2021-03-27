@@ -89,3 +89,34 @@ h1{
 	background-color: white;
 	top: -134px;
 }
+#Uni img{
+ width: 300px;
+	height: 190px;
+border: 1px solid #ffffff;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: white;
+  margin: 2%;
+  
+}
+#Uni img:hover {
+  box-shadow: 0 0 40px 6px rgba(0, 140, 186, 0.5);
+}
+
+#UniInfo{
+	position: relative;
+	color: white;
+	width: 40%;
+    height: 1%;
+	text-align: left;
+	left:  4%;
+	top: 30px;
+}
+#Vidframe{
+	position: relative;
+	bottom: 80px;
+	left:  20%;
+}
+p{
+	color: white;
+}

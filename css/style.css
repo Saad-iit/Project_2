@@ -40,3 +40,52 @@ body {
 	background-color: gray;
 	text-align: center;
 }
+h1{
+	font-family: 'Libre Baskerville', serif;
+}
+#info ul li{
+	text-align: center;
+	list-style-type: none;
+	margin-left: -11%;
+}
+#backgorundInfo{
+	position: relative;
+	color: white;
+	background-color: purple;
+	width: 40%;
+    height: 120px;
+	text-align: center;
+	left:  5%;
+}
+#backgorundExper{
+	position: relative;
+	color: white;
+	background-color: red;
+	width: 40%;
+    height: 120px;
+	left:  5%;
+}
+#backgorundSkills{
+	position: relative;
+	color: white;
+	background-color: orange;
+	width: 40%;
+    height: 120px;
+	left:  50%;
+    top: -277px;
+}
+#backgorundVol{
+	position: relative;
+	color: white;
+	background-color: blue;
+	width: 40%;
+    height: 120px;
+	left:  50%;
+    top: -277px;
+}
+#backgorundEdu{
+	position: relative;
+	color: black;
+	background-color: white;
+	top: -134px;
+}
